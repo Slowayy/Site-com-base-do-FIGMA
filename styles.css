@@ -1,0 +1,75 @@
+body {
+  background-color: #000000;
+}
+#E-mail {
+  position: absolute;
+  width: 163px;
+  height: 61px;
+  left: 0px;
+  top: 0px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #000000;
+
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+#Rectangle6 {
+  position: absolute;
+  width: 177px;
+  height: 54px;
+  left: 0px;
+  top: 3px;
+
+  background: #ffc226;
+  border-radius: 8px;
+}
+#digiteemail {
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 88px;
+  top: 71px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 61px;
+
+  color: #ffd362;
+}
+#rectangle2 {
+  position: absolute;
+  width: 826px;
+  height: 82px;
+  left: 0px;
+  top: 61px;
+
+  background: #ff993c;
+  border-radius: 12px;
+}
+#senha {
+  position: absolute;
+  width: 162px;
+  height: 61px;
+  left: 7px;
+  top: 138px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #000000;
+
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
